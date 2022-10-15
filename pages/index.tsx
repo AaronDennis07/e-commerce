@@ -89,7 +89,7 @@ const Home: NextPage = () => {
         >Load more  </button>     
       </div>
       :
-      <p className={styles.footer}>You've reached the end! </p>
+      <p className={styles.footer}>That's all for the menu! More coming soon... </p>
       }
         
          
